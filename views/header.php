@@ -15,7 +15,7 @@
     <header>
       <div class="contenedor">
         <div class="logo izquierda">
-          <p><a href="#">Mi Primer Blog</a></p>
+          <p><a href="<?php echo RUTA; ?>">Mi Primer Blog</a></p>
         </div>
 
         <div class="derecha">
