@@ -23,8 +23,5 @@
       <?php  else: ?>
           <li><a href="index.php?p=<?php echo pagina_actual() + 1; ?>">&raquo;</a></li>
       <?php endif; ?>
-
-<!--      <li><a href="#">2</a></li>
-      <li><a href="#">3</a></li> -->
   </ul>
 </section>
