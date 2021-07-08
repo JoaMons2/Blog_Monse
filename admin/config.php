@@ -1,6 +1,6 @@
 <?php
 
-define('RUTA', 'http://localhost/curso_php/practicas/blog/');
+define('RUTA' , 'http://localhost/curso_php/practicas/blog/');
 
 $bd_config = array( 
     'basedatos' => 'blog_practica',
@@ -10,7 +10,7 @@ $bd_config = array(
 
 $blog_config = array( 
     'post_por_pagina' => '2',
-    'carpeta_imagenes' => 'imagenes/'
+    'carpeta_imagenes' => 'imagenes/',
 );
 
 $blog_admin = array( 
